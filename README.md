@@ -9,8 +9,8 @@ I'm a seasoned Full Stack Developer with 3.5 years of hands-on experience, speci
     <a href="https://s-anand.netlify.app/" alt="Protfolio Website">Visit Protfolio Website</a>
 </p>
 
--  <img src="https://metrics.lecoq.io/ankit-kmar?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FCalcutta" alt="" width="300">
-<br>
+<!-- -  <img src="https://metrics.lecoq.io/ankit-kmar?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FCalcutta" alt="" width="300">
+<br> -->
 <!-- <p align="center">
 <img alt="My Github Stats" align="center" src="https://github-readme-stats.ankit-kmar.vercel.app/api?username=ankit-kmar&show_icons=true&theme=gruvbox&show_icons=true&count_private=true">
   </p>
