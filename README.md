@@ -6,7 +6,7 @@ I'm a seasoned Full Stack Developer with 3.5 years of hands-on experience, speci
 
 
 <p align="center">
-    <a href="https://s-anand.netlify.app/" alt="Protfolio Website">Visit Protfolio Website</a>
+    <a href="https://s-anand.netlify.app/" target="_blank" alt="Protfolio Website">Visit Protfolio Website</a>
 </p>
 
 <!-- -  <img src="https://metrics.lecoq.io/ankit-kmar?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FCalcutta" alt="" width="300">
@@ -18,7 +18,7 @@ I'm a seasoned Full Stack Developer with 3.5 years of hands-on experience, speci
 
 <h4><b><samp>Languages</samp></b></h4>
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-7700CF?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-ED8B00?style=for-the-badge&logo=sql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
