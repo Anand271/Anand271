@@ -16,6 +16,13 @@ I'm a seasoned Full Stack Developer with 3.5 years of hands-on experience, speci
   </p>
 <br> -->
 
+
+<h4><b><samp>Technology Stack: </samp></b></h4>
+
+![Angular](https://img.shields.io/badge/Angular-F05032?style=for-the-badge&logo=angular&logoColor=white)
+![DotNet](https://img.shields.io/badge/DotNet-ffca28?style=for-the-badge&logo=dotnet&logoColor=black)
+![MSSQL](https://img.shields.io/badge/Sql-CB3837?style=for-the-badge&logo=sql&logoColor=white)
+
 <h4><b><samp>Languages</samp></b></h4>
 
 ![C#](https://img.shields.io/badge/C%23-7700CF?style=for-the-badge&logo=c-sharp&logoColor=white)
