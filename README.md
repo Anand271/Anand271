@@ -2,7 +2,7 @@
 
 
 
-I'm a seasoned Full Stack Developer with 3.5 years of hands-on experience, specializing in crafting robust and scalable solutions across the technology stack. Here's a snapshot of what I bring to the table:<br>
+I'm a seasoned Full Stack Developer with 3 years of hands-on experience, specializing in crafting robust and scalable solutions across the technology stack. Here's a snapshot of what I bring to the table:<br>
 
 
 <p align="center">
