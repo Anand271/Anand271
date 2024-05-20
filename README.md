@@ -52,6 +52,7 @@ I'm a seasoned Full Stack Developer in .Net & Angular with 3 years of hands-on e
 <p align="center">
   <i>Want to talk about coding? Let's connect and chat! Open to anyone.</i>
 <p align="center">
+     <a href="[mailto:anandsa271@gmail.com](https://www.upwork.com/freelancers/~01e50d7643a904170f?mp_source=share)" alt="Twitter"><img src="https://img.icons8.com/fluent/30/000000/upwork.png"></a>
     <a href="mailto:anandsa271@gmail.com" alt="Twitter"><img src="https://img.icons8.com/fluent/30/000000/mail.png"></a>
     <a href="https://www.linkedin.com/in/sanand271/" alt="Linkedin"><img src="https://img.icons8.com/fluent/30/000000/linkedin.png"></a>
 </p>
