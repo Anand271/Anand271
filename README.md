@@ -53,7 +53,7 @@ I'm a seasoned Full Stack Developer in .Net & Angular with 3 years of hands-on e
   <i>Want to talk about coding? Let's connect and chat! Open to anyone.</i>
 <p align="center">
     <a href="mailto:anandsa271@gmail.com" alt="Twitter"><img src="https://img.icons8.com/fluent/30/000000/mail.png"></a>
-    <a href="https://www.linkedin.com/in/santosh-kumar-anand-96b670231/" alt="Linkedin"><img src="https://img.icons8.com/fluent/30/000000/linkedin.png"></a>
+    <a href="https://www.linkedin.com/in/sanand271/" alt="Linkedin"><img src="https://img.icons8.com/fluent/30/000000/linkedin.png"></a>
 </p>
   
 </p>
