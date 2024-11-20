@@ -4,11 +4,12 @@
 
 I'm a seasoned Full Stack Developer in .Net & Angular with 3 years of hands-on experience, specializing in crafting robust and scalable solutions across the technology stack. Here's a snapshot of what I bring to the table:<br>
 
-<!-- - 
+
 <p align="center">
     <a href="https://s-anand.netlify.app/" target="_blank" alt="Protfolio Website">Visit Protfolio Website</a>
 </p>
 
+<!-- - 
  <img src="https://metrics.lecoq.io/ankit-kmar?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FCalcutta" alt="" width="300">
 <br> -->
 <!-- <p align="center">
