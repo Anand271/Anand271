@@ -1,6 +1,6 @@
 ### <h2 align="center">Hii, Santosh this side<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-<a href="https://s-anand.netlify.app/">My Protofolio</a>
+<a align="center" href="https://s-anand.netlify.app/">My Protofolio</a>
 
 I'm a seasoned Full Stack Developer in .Net & Angular with 3 years of hands-on experience, specializing in crafting robust and scalable solutions across the technology stack. Here's a snapshot of what I bring to the table:<br>
 
