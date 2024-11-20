@@ -18,7 +18,7 @@ I'm a seasoned Full Stack Developer in .Net & Angular with 3 years of hands-on e
 
 <h4><b><samp>Technology Stack: </samp></b></h4>
 
-![Angular](https://img.shields.io/badge/Angular-F05032?style=for-the-badge&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-c40837?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vuejs-3EB17E?style=for-the-badge&logo=vuejs&logoColor=white)
 ![DotNet](https://img.shields.io/badge/DotNet-7700CF?style=for-the-badge&logo=dotnet&logoColor=black)
 ![Nest.js](https://img.shields.io/badge/Nestjs-E12A54?style=for-the-badge&logo=vuejs&logoColor=white)
