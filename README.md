@@ -22,7 +22,7 @@ I'm a seasoned Full Stack Developer in .Net & Angular with 3 years of hands-on e
 ![Vue.js](https://img.shields.io/badge/Vuejs-3EB17E?style=for-the-badge&logo=vuejs&logoColor=white)
 ![DotNet](https://img.shields.io/badge/DotNet-7700CF?style=for-the-badge&logo=dotnet&logoColor=black)
 ![Nest.js](https://img.shields.io/badge/Nestjs-E12A54?style=for-the-badge&logo=vuejs&logoColor=white)
-![MSSQL](https://img.shields.io/badge/Sql-CB3837?style=for-the-badge&logo=sql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Sql-0977c8?style=for-the-badge&logo=sql&logoColor=white)
 
 <h4><b><samp>Languages</samp></b></h4>
 
